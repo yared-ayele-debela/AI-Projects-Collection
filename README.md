@@ -7,7 +7,7 @@ A collection of AI-driven applications and experiments built using **Next.js**, 
 ### 1. 🎥 Video Tagging App
 AI-based web app that detects and tags objects in videos in real time.  
 **Stack:** Next.js, TensorFlow.js  
-[View project folder](./video-tagging-app)
+[View project folder](./my-video-tag-app)
 
 ## 🌐 Author
 **Yared Ayele**  
