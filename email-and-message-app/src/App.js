@@ -216,7 +216,7 @@ const App = () => {
 
 
     return (
-        <div className="bg-gradient-to-br from-slate-50 to-blue-50 p-4 sm:p-8 font-['Inter']">
+        <div className="bg-gradient-to-br from-slate-50 to-blue-50 p-4 sm:p-8 font-['Poppins']">
             <script src="https://cdn.tailwindcss.com"></script>
             <div className="max-w-screen-2xl mx-auto p-4 sm:p-8 h-screen flex flex-col">
                 <header className="text-center py-8 mb-8 bg-white shadow-xl rounded-2xl overflow-hidden relative">

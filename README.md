@@ -8,10 +8,10 @@ A collection of AI-driven applications and experiments built using **Next.js**, 
 AI-based web app that detects and tags objects in videos in real time.  
 **Stack:** Next.js, TensorFlow.js  
 [View project folder](./my-video-tag-app)
-### 2 🤖 AI Email & Message Rewriter
+### 2. 🤖 AI Email & Message Rewriter
 
 Overview
-The AI Email & Message Rewriter is a modern micro-SaaS application designed to instantly transform the tone of any written draft—be it an email, a chat message, or a formal document. It solves the common problem of tone mismatch by leveraging the Google Gemini API to offer multiple, high-quality rewrites in a single, efficient process.
+The AI Email & Message Rewriter is a modern micro-SaaS application designed to instantly transform the tone of any written draft be it an email, a chat message, or a formal document. It solves the common problem of tone mismatch by leveraging the Google Gemini API to offer multiple, high-quality rewrites in a single, efficient process.
 
 This project serves as an excellent portfolio piece, showcasing skills in modern React development, smooth UI/UX design (using Tailwind CSS), robust API integration, and efficient structured data handling.
 
