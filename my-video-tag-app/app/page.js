@@ -1,8 +1,6 @@
 "use client";
 import React, { useState } from 'react';
 
-// --- Helper Icon Components ---
-
 const SparklesIcon = ({ className = "w-6 h-6" }) => (
   <svg
     xmlns="http://www.w3.org/2000/svg"
@@ -199,7 +197,7 @@ Do not include any other text, explanation, or markdown formatting.`;
   };
 
   return (
-    <div className="flex justify-center items-start min-h-screen bg-gray-900 text-white p-4 sm:p-8 font-inter">
+    <div className="flex justify-center items-start min-h-screen bg-white text-white p-4 sm:p-8 font-inter">
       <div className="w-full max-w-2xl bg-gray-800 rounded-xl shadow-2xl p-6 sm:p-8">
         {/* --- Header --- */}
         <div className="flex flex-col sm:flex-row sm:items-center sm:justify-between mb-6 pb-6 border-b border-gray-700">
